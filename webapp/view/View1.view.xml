@@ -5,6 +5,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 					    <Label text="My Lable" width="100%" id="label0"/>
+					    <Label text="My Lable branch4" width="100%" id="label0"/>
 					</content>
 				</Page>
 			</pages>
