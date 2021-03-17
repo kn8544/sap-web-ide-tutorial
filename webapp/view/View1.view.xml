@@ -4,7 +4,8 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-					    <Label text="My Lable" width="100%" id="label0"/>
+					    <Label text="My Label" width="100%" id="label0"/>
+					    <GenericTile header="Tile Header" subheader="Tile Sub Header" id="tile0"/>
 					</content>
 				</Page>
 			</pages>
